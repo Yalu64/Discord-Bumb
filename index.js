@@ -11,10 +11,10 @@ client.on('ready', () => {
 
  
  
-client.login("ODY0NDY5ODY4MzcwOTg0OTgx.YO3rnw.TRkhanJqgcLb41bFOv8_Ng2qPsM");
+client.login("TOKEN");
 
 
-var channels = ['864467238500565013']
+var channels = ['CHANNELDID']
 
 async function sendBump() {
     channels.forEach(channel => {
